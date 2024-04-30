@@ -1,0 +1,254 @@
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 738-040-563
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 738-040-563
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 738-040-563
+ * Detected change in '/home/jarvis/Documents/ase/asegpt/functions/dspy/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 738-040-563
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.68.56:5000
+[33mPress CTRL+C to quit[0m
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.68.56:5000
+[33mPress CTRL+C to quit[0m
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.68.56:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 738-040-563
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6000
+ * Running on http://192.168.68.56:6000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 738-040-563
+ * Detected change in '/home/jarvis/Documents/ase/asegpt/functions/dspy/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 738-040-563
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.68.56:8080
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 738-040-563
+ * Detected change in '/home/jarvis/Documents/ase/asegpt/functions/dspy/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 738-040-563
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.68.56:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 738-040-563
+ * Detected change in '/home/jarvis/Documents/ase/asegpt/functions/dspy/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 738-040-563
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.68.56:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 738-040-563
+Error generating question: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+Traceback (most recent call last):
+  File "/home/jarvis/Documents/ase/asegpt/functions/dspy/app.py", line 20, in generate_question
+    context = request.json.get("context")
+  File "/home/jarvis/.local/share/virtualenvs/asegpt-Cdt9u051/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 558, in json
+    return self.get_json()
+  File "/home/jarvis/.local/share/virtualenvs/asegpt-Cdt9u051/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 604, in get_json
+    return self.on_json_loading_failed(None)
+  File "/home/jarvis/.local/share/virtualenvs/asegpt-Cdt9u051/lib/python3.10/site-packages/flask/wrappers.py", line 131, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+  File "/home/jarvis/.local/share/virtualenvs/asegpt-Cdt9u051/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 647, in on_json_loading_failed
+    raise UnsupportedMediaType(
+werkzeug.exceptions.UnsupportedMediaType: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.158.56:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+ * Debugger is active!
+ * Debugger PIN: 587-714-043
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.158.56:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+ * Debugger is active!
+ * Debugger PIN: 587-714-043
+ * Detected change in '/home/jarvis/Documents/ase/asegpt/functions/dspy/app.py', reloading
+ * Restarting with stat
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.158.56:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.158.56:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+ * Debugger is active!
+ * Debugger PIN: 587-714-043
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.158.56:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+ * Debugger is active!
+ * Debugger PIN: 587-714-043
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.158.56:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+ * Debugger is active!
+ * Debugger PIN: 587-714-043
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.158.56:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+ * Debugger is active!
+ * Debugger PIN: 587-714-043
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.158.56:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+ * Debugger is active!
+ * Debugger PIN: 587-714-043
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.158.56:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+ * Debugger is active!
+ * Debugger PIN: 587-714-043
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.158.56:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+ * Debugger is active!
+ * Debugger PIN: 587-714-043
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.158.56:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"
+ * Debugger is active!
+ * Debugger PIN: 587-714-043
+HTTP Request: GET https://vu2qzzfhqomeh475mrd6ng.c0.us-west1.gcp.weaviate.cloud/v1/meta "HTTP/1.1 200 OK"

@@ -1,0 +1,7 @@
+Flask>=2.0.2
+dspy-ai
+pyjwt
+flask-cors
+streamlit
+python-docx
+boto3
